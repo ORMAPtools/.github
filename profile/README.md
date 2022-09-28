@@ -1,4 +1,7 @@
-## Hi there 👋
+You can get access to files either here or at this page: https://ormaptools.github.io/
+
+What you are looking for is probably in the Pinned Files section.
+There are also some old repositories here for the earlier ORMAP project based on ArcMap.
 
 <!--
 
